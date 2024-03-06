@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JanRehman
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning Microsoft Azure DP-203. Im also taking machine learning skill path on Codecademy.
+- 👀 I’m interested in data science and testing.
+- 🌱 I’m currently looking to learn new automation frameworks.
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me ...
 
