@@ -2,21 +2,13 @@
 
 ###
 
-<p align="left">My name is Jan Rehman and I'm a QA test engineer, from Norway</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/JanRehman/count.svg?"  />
 </div>
 
 ###
 
-<p align="left">✨ I crack codes by day and debunk economic theories by night. A senior consultant who dances on the fine line between tech wizardry and financial savvy.<br>📚 I'm currently mastering the art of weaving Agile magic into the fabric of finance and banking sectors, while AI whispers secrets of innovation into my ear.<br>🎯 Goals: To outsmart tomorrow's tech challenges today and mentor the next league of unicorns in the digital arena.<br>🎲 Fun fact: My brain speaks Python, my heart beats in SQL rhythms, and I dream in machine learning algorithms. Yet, I make a mean espresso that defies all logic.<br><br>Master degree in finance and work as a IT consultant. I specialize in quality assurance.</p>
+<p align="left">My name is Jan Rehman and I'm a QA test engineer, from Norway</p>
 
 ###
 
@@ -52,10 +44,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JanRehman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JanRehman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ I crack codes by day and debunk economic theories by night. A senior consultant who dances on the fine line between tech wizardry and financial savvy.<br>📚 I'm currently mastering the art of weaving Agile magic into the fabric of finance and banking sectors, while AI whispers secrets of innovation into my ear.<br>🎯 Goals: To outsmart tomorrow's tech challenges today and mentor the next league of unicorns in the digital arena.<br>🎲 Fun fact: My brain speaks Python, my heart beats in SQL rhythms, and I dream in machine learning algorithms. Yet, I make a mean espresso that defies all logic.<br><br>Master degree in finance and work as a IT consultant. I specialize in quality assurance.</p>
 
 ###
 
@@ -64,5 +57,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/JanRehman/JanRehman/output/snake.svg" alt="Snake animation" />
 
 ###
